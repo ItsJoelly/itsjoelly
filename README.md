@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Joel
 
-I'm a data analyst who loves turning messy data into meaningful stories. Whether it's dashboards, data pipelines, or digging deep for insights — I'm all about helping teams make smarter decisions with data.
+I'm a data analyst who loves turning messy data into meaningful stories. Whether it's dashboards, data pipelines, or digging deep for insights
 
 ---
 
